@@ -40,7 +40,7 @@ public class OrderProcessing {
         
         catch(IOException ioe)
         {
-            
+            System.out.println("ERROR");
         }
                
     }
